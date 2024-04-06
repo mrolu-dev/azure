@@ -3,6 +3,6 @@
   "Values": {
     "FUNCTIONS_WORKER_RUNTIME": "dotnet",
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
-    "GitHubToken": "YOUR TOKEN HERE"
+    "GitHubToken": "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"
   }
 }
